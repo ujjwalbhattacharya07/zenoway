@@ -68,3 +68,17 @@ Run Face Web on Browser
 ```
 
 ## Important Links
+
+Website
+
+```bash
+https://zenoway.on.fleek.co
+
+https://zenoway-1.kalpitjain1.repl.co
+```
+
+Video Demo
+
+```bash
+https://youtu.be/3MGsaFB9p8A
+```
