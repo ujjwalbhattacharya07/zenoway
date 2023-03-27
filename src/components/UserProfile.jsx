@@ -192,7 +192,7 @@ function UserProfile() {
           </div>
 
           <div className="bio">
-            {userBio === "" ? "Hey there, I'm using OpenCircle!" : userBio}
+            {userBio === "" ? "Hey there, I'm using Zenoway!" : userBio}
           </div>
 
           <div className="edit-profile-button" onClick={handleShowEdit}>
